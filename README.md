@@ -12,7 +12,7 @@ A simple, fun, and responsive Tic Tac Toe game built with **HTML**, **CSS**, and
 ---
 
 ## 🖼️ Preview
-[Game Preview] (tic-tac-tio.PNG)
+![Tic Tac Toe](tic-tac-tio.PNG)
   
 
 
