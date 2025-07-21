@@ -6,7 +6,7 @@ A simple, fun, and responsive Tic Tac Toe game built with **HTML**, **CSS**, and
 
 ## 🌐 Live Demo
 
- 
+ 🔗 [Play Now on GitHub Pages]https://mubeen2005.github.io/Tic-Tac-Toe/
 
 
 ---
